@@ -1,0 +1,77 @@
+.container {
+  width: 100%;
+  height: 100%;
+  max-width: 1000px;
+  margin: 10px 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.img {
+  height: 50%;
+  width: 80vh;
+  margin: 10px;
+  box-shadow: 10px 14px 20px 0px rgba(226,204,189,1);
+}
+
+.img-1{
+  background: url(../imagesTwo/img-1.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  
+}
+.img-2{
+  background: url(../imagesTwo/img-2.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+}
+.img-3{
+  background: url(../imagesTwo/img-3.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  
+}
+.img-4 {
+  background: url(../imagesTwo/img-4.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  
+}
+
+.img-5 {
+  background: url(../imagesTwo/img-5.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+}
+
+.img-6 {
+  background: url(../imagesTwo/img-6.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%;
+}
+
+.img-7 {
+  background: url(../imagesTwo/img-7.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%
+}
+
+.img-8 {
+  background: url(../imagesTwo/img-8.jpg) no-repeat center center;
+  background-size: cover;
+  width: 100%
+}
+
+@media screen and (min-width: 800px) {
+  .container{
+    height: 700px; 
+  }
+  
+  .img{
+    height: 40%;
+    width: 200px;  
+  }
+  
+ 
+  
+}
