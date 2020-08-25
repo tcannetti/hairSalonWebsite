@@ -5,6 +5,7 @@
   margin: 10px 0;
   display: flex;
   flex-wrap: wrap;
+  /* position: absolute; */
 }
 
 .img {
