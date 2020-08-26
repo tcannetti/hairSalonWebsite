@@ -1,0 +1,28 @@
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: antiquewhite;
+}
+
+header {
+  display: flex;
+  height: 80px;
+  width: auto;
+}
+
+.header-logo {
+  align-self: center;
+}
+
+nav ul {
+
+}
+
+nav ul li {
+  display: block;
+  list-style: none;
+  align-content: space-between;
+}
